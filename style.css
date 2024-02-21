@@ -1,0 +1,13 @@
+body {
+    background-color: #FDFDFE;
+
+}
+
+h1 {
+    font-size: 2.5em;
+    margin: 30px 300px 0 300px;
+    border-radius: 40px;
+    padding: 10px;
+    color: rgb(65, 68, 79);
+    background-image: linear-gradient(to bottom right, rgb(254, 254, 254) rgb(232, 232, 232));
+}
